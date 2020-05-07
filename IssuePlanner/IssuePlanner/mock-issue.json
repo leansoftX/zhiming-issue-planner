@@ -1,0 +1,715 @@
+{
+    "AllIssue": [
+        {
+            "IssueId": "#263",
+            "IssueTitle": "IP：团队知识分享列表",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#262",
+            "IssueTitle": "IP二组：期望获取知识 - 多团队协作方式？",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#261",
+            "IssueTitle": "IP二组：期望获取知识 - 如何把Boathouse经验导入到公司中？",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#260",
+            "IssueTitle": "IP二组：期望获取知识 - K8s如何监控？",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#259",
+            "IssueTitle": "IP二组：期望获取知识 - 如何手工搭建K8s环境？",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#258",
+            "IssueTitle": "IP二组：期望获取知识：vuejs调试方法？",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#257",
+            "IssueTitle": "IP四组： IT服务管理（信息化视角）、运营（提高服务质量）",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#256",
+            "IssueTitle": "IP四组：github action && 基础设施既代码",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#255",
+            "IssueTitle": "IP四组：禅道与Jenkins集成的问题 以及 思想",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#254",
+            "IssueTitle": "IP三组：产品设计的思考（读书笔记分享）",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#253",
+            "IssueTitle": "IP三组：Andoid流水线搭建",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#252",
+            "IssueTitle": "IP三组：华为kanban使用",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#251",
+            "IssueTitle": "IP二组：从零开始后端代码调试开发",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#250",
+            "IssueTitle": "IP二组：K8s搭建Apollo(阿波罗)",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#249",
+            "IssueTitle": "IP二组：从零开始如何搭建K8s流水线",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#246",
+            "IssueTitle": "IP一组：jmeter接口测试及自动化",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#245",
+            "IssueTitle": "IP一组：k8s的mysql集群实操",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#244",
+            "IssueTitle": "IP一组：单元测试的编写及自动化",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#240",
+            "IssueTitle": "作为运维人员，我不想每次dev环境部署都导致数据丢失",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#235",
+            "IssueTitle": "混合模式的app",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#234",
+            "IssueTitle": "船屋故事乱码bug",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#230",
+            "IssueTitle": "四组，#204 技术债 - 菜品管理问题修复",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#228",
+            "IssueTitle": "作为ios开发人员，我希望boathouse能支持ios app的应用构建",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#227",
+            "IssueTitle": "\b作为ios开发人员，我希望boathouse能有一个ios版本",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#224",
+            "IssueTitle": "ChatOps - 作为运维 我想在微信群里收到boathouse相关的提示信息（jenkins）",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#223",
+            "IssueTitle": "ChatOps - 作为运维 我想在微信里收到boathouse相关的提示信息（github）",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#222",
+            "IssueTitle": "ChatOps - 作为运维我想把mattermost与jenkins集成",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#221",
+            "IssueTitle": "ChatOps - 作为运维我想把mattermost与github集成",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#218",
+            "IssueTitle": "集成禅道软件的项目管理和持续集成功能",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#217",
+            "IssueTitle": "作为开发和运维人员，我希望使用Azure DevOps作为工具链，更好的和Azure相关资源做桥接，以便更好的学习和使用Azure云的各项服务",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#215",
+            "IssueTitle": "规范 - UI测试命名、设计规范、经验",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#214",
+            "IssueTitle": "规范类：单元测试命名、设计规范、经验",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#213",
+            "IssueTitle": "业务功能需要包含单元测试、接口测试、UI测试",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#212",
+            "IssueTitle": "技术债 - APP登录注册（接口问题 && 用户体验）",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#209",
+            "IssueTitle": "规范类：Follow API接口设计规范",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#208",
+            "IssueTitle": "运维 - 环境切换（维护团队分配了一套新的订阅）",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#198",
+            "IssueTitle": "作为开发人员，我想前期就搭建好订单服务的基础框架，以便能更好的完成开发任务，减少技术债务。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#195",
+            "IssueTitle": "作为船屋老板，我想要后台有员工管理功能，方便我管理员工",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#192",
+            "IssueTitle": "作为顾客，我想完整的体验选餐、下单的流程，以便我能够购买自己心仪的食物。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#191",
+            "IssueTitle": "作为开发人员，我想在我们的项目中引入数据库版本管理组件，以便能更好的对数据库版本进行管理。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#189",
+            "IssueTitle": "Search food",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#186",
+            "IssueTitle": "作为客人，我想办会员，攒积分，领优惠券！",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#179",
+            "IssueTitle": "作为开发人员，我希望社区有一个统一的接口管理平台，方便不同小组间协作",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#178",
+            "IssueTitle": "作为开发人员，我希望可以使用aks devspace完成线上应用的开发调试",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#176",
+            "IssueTitle": "作为移动用户，我想要用手机登录平台，以便进行点餐",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#175",
+            "IssueTitle": "作为移动用户，我想要用手机注册到平台，以便使用平台进行点餐",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#174",
+            "IssueTitle": "作为系统管理员，我希望能够增删改查用户，以便让用户使用该系统",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#173",
+            "IssueTitle": "BoatHouse微服务架构选型",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#172",
+            "IssueTitle": "代码安全review",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#171",
+            "IssueTitle": "作为开发人员，我希望开发的编码，可以有统一的规范，易于维护。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#169",
+            "IssueTitle": "作为客人，我希望船屋APP可以支持添加食物到购物车的功能",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#168",
+            "IssueTitle": "作为用户，我希望APP可以有定位服务，能定位到我的位置方便外卖点餐",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#159",
+            "IssueTitle": "作为开发人员，我希望每个服务都是一个独立的仓库，每个仓库都有独立的流水线",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#129",
+            "IssueTitle": "作为开发人员，我觉得需要让db有一个集中的环境，大家的改动可以在经过review后，尽量自动部署",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#126",
+            "IssueTitle": "作为运维人员我希望kubernetes集群有对应的统一日志管理方案",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#124",
+            "IssueTitle": "作为运维人员，我希望kubernetes本身是高可用的，以防止master节点挂掉，导致系统崩溃",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#121",
+            "IssueTitle": "作为测试人员，我希望Jenkins能够集成Postman进行接口测试，以便在流水线执行完毕后能够看到测试结果。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#119",
+            "IssueTitle": "作为PHP技术栈爱好者，我希望搭建PHP的自动化构建流程，以便更多的PHPer能够参与进来",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#118",
+            "IssueTitle": "作为开发人员，我不想所有的迁入都会导致流水线的自动触发，比如env文件件",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#116",
+            "IssueTitle": "作为客人，我希望在船屋网站完成在线点餐后，可以选择到店支付或线上支付",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#115",
+            "IssueTitle": "作为餐馆经理，我希望能够有一套营销系统，以便更好更快的推销出我的菜品，增加我的收入。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#106",
+            "IssueTitle": "作为开发人员，我希望在BoasHouse里面引入微服务，以便于单独治理、发布",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#105",
+            "IssueTitle": "作为微服务开发人员，我希望能否独立build自己的微服务，而不是现在一坨一起build集成，以让我的微服务能否减少build时间快速测试部署。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#103",
+            "IssueTitle": "Jenkins怎么才能方便的集成自己开发的第三方BS系统？",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#102",
+            "IssueTitle": "在开始使用微服务后，希望增加boat-house整合测试环境，方便各组集成测试",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#101",
+            "IssueTitle": "作为业务师，我希望能够在业务功能复用，以减少重复开发！",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#100",
+            "IssueTitle": "作为运维人员，我希望多一些关于基线工具链实践的分享。如：Jenkins groovy脚本的编写，Azure的常规Portal操作",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#98",
+            "IssueTitle": "作为开发人员，github克隆太慢了，我希望能够解决下克隆的问题",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#96",
+            "IssueTitle": "作为用户我需要一个本地版工具链搭建的文档，以便我自己可以在本地测试",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#95",
+            "IssueTitle": "作为初次就餐者，我想要知道有哪些特色菜，以便尝试。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#92",
+            "IssueTitle": "作为参与人员，我希望项目有尽可能全的知识输出，以便提升参与人员能力",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#91",
+            "IssueTitle": "作为小组组长，我希望我自己可以进行看板权限的维护",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#89",
+            "IssueTitle": "作为运维人员，我希望拥有一套k8s的搭建手册，便于安装",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#88",
+            "IssueTitle": "作为开发者，我希望boat-house有统一命名规范管理，以便于快速开发",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#87",
+            "IssueTitle": "作为运维人员，我希望nexus服务器有足够的磁盘空间来保障系统运行",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#86",
+            "IssueTitle": "作为SM，我希望能看到大家有障碍可以让我知悉，以便对障碍进行移除",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#83",
+            "IssueTitle": "BDD",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#80",
+            "IssueTitle": "主代码库过大",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#79",
+            "IssueTitle": "做为CTO，我希望看到你们的研发效率度量，好来进一步提高研发效率。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#78",
+            "IssueTitle": "做为运维人员，我希望在动态构建各种环境，已达到节约服务器资源成本的目的。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#74",
+            "IssueTitle": "如何规范测试计划？",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#73",
+            "IssueTitle": "作为开发人员，我希望开发框架能帮助开发人员根据业务表自动生成增删改查代码，以便每次写个业务都不需要复制粘贴。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#70",
+            "IssueTitle": "作为UI设计师，我希望可以进行AB testing，以确保帮助我们作出正确的选择",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#69",
+            "IssueTitle": "作为PR审批人员，我希望PR验证流水线中可以验证构建、单元测试、静态代码扫描，以及开发环境部署。不需要部署测试环境以及生产环境",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#65",
+            "IssueTitle": "做为运维人员，我希望在Jenkins流水线中使用传统模式部署（非容器化方式）",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#64",
+            "IssueTitle": "Jenkins流水线中编译项目使用Nexus私服，并推送交付件到nexus存档",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#62",
+            "IssueTitle": "产品服务API - 编译报错问题",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#56",
+            "IssueTitle": "作为Jenkisn用户，我希望Jenkins运行的单元测试结果，以及测试覆盖率都可以在Blue Ocean显示",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#49",
+            "IssueTitle": "作为运维人员，需要系统添加“服务发现”功能，以便于对服务进行管理",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#48",
+            "IssueTitle": "添加配置中心",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#47",
+            "IssueTitle": "作为系统运维人员，需要为系统添加API Gateway，以对API进行授权、监控、负载均衡、缓存等管理",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#46",
+            "IssueTitle": "作为运营小妹，我需要一些运营工具支持，以便于提高运营效率。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#45",
+            "IssueTitle": "作为DBA，我希望支持数据库持续部署，以便于数据库可以与应用程序同步发布",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#44",
+            "IssueTitle": "支持Kubernetes集群监控",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#43",
+            "IssueTitle": "作为项目参与人员，需要系统能够支持JIRA项目管理，以便于更好的协作",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#41",
+            "IssueTitle": "作为测试人员，需要系统能够支持Jmeter压力测试，以便于获得系统的性能数据",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#40",
+            "IssueTitle": "应用 测试环境 && 生产环境添加域名映射",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#32",
+            "IssueTitle": "支持使用HELM的方式完成应用的部署升级",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#31",
+            "IssueTitle": "支持基于ISTIO的灰度发布场景",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#29",
+            "IssueTitle": "作为项目团队成员，可以随时在微信群，通过@robot机器人，以聊天的形式获得各种系统数据。",
+            "Assignee": "No Assignee",
+            "Id": 0
+        },
+        {
+            "IssueId": "#27",
+            "IssueTitle": "将产品服务API项目的源使用nexus作为代理，提高下载速度 ",
+            "Assignee": "No Assignee",
+            "Id": 0
+        }
+    ],
+    "LeftTable": [
+        "#263",
+        "#262",
+        "#261",
+        "#260",
+        "#259",
+        "#258",
+        "#257",
+        "#256",
+        "#255",
+        "#254",
+        "#253",
+        "#252",
+        "#251",
+        "#250",
+        "#249",
+        "#246",
+        "#245",
+        "#244",
+        "#240",
+        "#235",
+        "#234",
+        "#230",
+        "#228",
+        "#227",
+        "#224",
+        "#223",
+        "#222",
+        "#221",
+        "#218",
+        "#217",
+        "#215",
+        "#214",
+        "#213",
+        "#212",
+        "#209",
+        "#208",
+        "#198",
+        "#195",
+        "#192",
+        "#191",
+        "#189",
+        "#186",
+        "#179",
+        "#178",
+        "#176",
+        "#175",
+        "#174",
+        "#173",
+        "#172",
+        "#171",
+        "#169",
+        "#168",
+        "#159",
+        "#129",
+        "#126",
+        "#124",
+        "#121",
+        "#119",
+        "#118",
+        "#116",
+        "#115",
+        "#106",
+        "#105",
+        "#103",
+        "#102",
+        "#101",
+        "#100",
+        "#98",
+        "#96",
+        "#95",
+        "#92",
+        "#91",
+        "#89",
+        "#88",
+        "#87",
+        "#86",
+        "#83",
+        "#80",
+        "#79",
+        "#78",
+        "#74",
+        "#73",
+        "#70",
+        "#69",
+        "#65",
+        "#64",
+        "#62",
+        "#56",
+        "#49",
+        "#48",
+        "#47",
+        "#46",
+        "#45",
+        "#44",
+        "#43",
+        "#41",
+        "#40",
+        "#32",
+        "#31",
+        "#29",
+        "#27"
+    ],
+    "RightTable": [],
+    "JsonString": null
+}
