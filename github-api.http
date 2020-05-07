@@ -1,0 +1,2 @@
+GET  https://api.github.com/repos/idcf-boat-house/boat-house/issues HTTP/1.1
+content-type: application/json
