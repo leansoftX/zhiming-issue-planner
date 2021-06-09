@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@model IssueViewModel
+
+<h1 class="display-3">Github Issue Planner</h1>
+
+<div id="app">
+    <div class="row">
+        <div class="col-md-4 col-sm-4">
+            <h2>All Issue</h2>
+            <select id="list" multiple class="form-control" v-model="leftSelectedIssue">
+                <option v-for="issue in vm.LeftTable">{{issue}}</option>
+            </select>
+        </div>
+        <div class="col-md-2 col-sm-2 btn-group-vertical" style="margin:30px 15px 50px 30px">
+
+            <button class="btn btn-primary" v-on:click="toRight">To Right</button>
+
+            <button class="btn btn-info" v-on:click="toLeft">To Left</button>
+
+            <button class="btn btn-warning" v-on:click="ok">Ok</button>
+
+        </div>
+        <div class="col-md-4 col-sm-4">
+            <h2>Select Issue</h2>
+            <select id="list" multiple class="form-control" v-model="rightSelectedIssue">
+                <option v-for="iss in vm.RightTable">{{iss}}</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="jumbotron">
+        <h2>Backlog</h2>
+        <div class="row ">
+            <ul class="list-group">
+                <li class="list-group-item" v-for="item in okList">{{item.issueNum}} {{item.title}} </li>
+                
+            </ul>
+
+        </div>
+    </div>
+
+</div>
+
+@section Scripts {
+<script>
+
+    function removeItem(arr, item) {
+        index = arr.indexOf(item)
+        if (index>-1) {
+            arr.splice(index, 1);
+        }
+    }
+
+    var vm = new Vue({
+    el: '#app',
+    data: {
+        vm: @Html.Raw(Model.JsonString),
+        leftSelectedIssue: [],
+        rightSelectedIssue: [],
+        okList:[]
+    },
+    methods: {
+    toRight: function() {
+            this.leftSelectedIssue.map(s => {
+                removeItem(this.vm.LeftTable, s);
+                this.vm.RightTable.push(s);
+            })  
+    }
+        ,
+     toLeft: function() {
+     this.rightSelectedIssue.map(s => {
+                removeItem(this.vm.RightTable, s);
+                this.vm.LeftTable.push(s);
+            }) 
+    },  ok: function () {
+            this.okList = [];
+            this.vm.RightTable.map(s => {
+                item = this.vm.AllIssue.find(i=>i.IssueId===s)
+                this.okList.push({
+                    issueNum: s,
+                    title: item.IssueTitle
+            });
+            });
+            
+        }
+        },
+      
+    })
+</script>
+    
+
+}
